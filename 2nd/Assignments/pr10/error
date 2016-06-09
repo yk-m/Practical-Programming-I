@@ -1,0 +1,4 @@
+/Users/yuka/GoogleDrive/School/Subjects/専門科目/実践プログラミング/2nd/pr10/pr10.c: In function 'update_cost':
+/Users/yuka/GoogleDrive/School/Subjects/専門科目/実践プログラミング/2nd/pr10/pr10.c:108: error: 'start' undeclared (first use in this function)
+/Users/yuka/GoogleDrive/School/Subjects/専門科目/実践プログラミング/2nd/pr10/pr10.c:108: error: (Each undeclared identifier is reported only once
+/Users/yuka/GoogleDrive/School/Subjects/専門科目/実践プログラミング/2nd/pr10/pr10.c:108: error: for each function it appears in.)

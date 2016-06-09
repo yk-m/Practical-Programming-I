@@ -1,0 +1,37 @@
+/Users/yuka/GoogleDrive/School/Subjects/Computer_Science/Practical_Programming_I/2nd/pr12/pr12-1.c:21:4: error: expected expression
+          , j
+          ^
+/Users/yuka/GoogleDrive/School/Subjects/Computer_Science/Practical_Programming_I/2nd/pr12/pr12-1.c:21:6: error: use of undeclared identifier 'j'
+          , j
+            ^
+/Users/yuka/GoogleDrive/School/Subjects/Computer_Science/Practical_Programming_I/2nd/pr12/pr12-1.c:24:8: error: use of undeclared identifier 'j'
+        for ( j = 0; j <= N; ++j ) {
+              ^
+/Users/yuka/GoogleDrive/School/Subjects/Computer_Science/Practical_Programming_I/2nd/pr12/pr12-1.c:24:15: error: use of undeclared identifier 'j'
+        for ( j = 0; j <= N; ++j ) {
+                     ^
+/Users/yuka/GoogleDrive/School/Subjects/Computer_Science/Practical_Programming_I/2nd/pr12/pr12-1.c:24:25: error: use of undeclared identifier 'j'
+        for ( j = 0; j <= N; ++j ) {
+                               ^
+/Users/yuka/GoogleDrive/School/Subjects/Computer_Science/Practical_Programming_I/2nd/pr12/pr12-1.c:25:8: error: expected expression
+                if ( )
+                     ^
+/Users/yuka/GoogleDrive/School/Subjects/Computer_Science/Practical_Programming_I/2nd/pr12/pr12-1.c:28:3: error: use of undeclared identifier 'repack_total'
+                repack_total = total[i-1] - value[ choice[j-1] ] + value[j];
+                ^
+/Users/yuka/GoogleDrive/School/Subjects/Computer_Science/Practical_Programming_I/2nd/pr12/pr12-1.c:28:45: error: use of undeclared identifier 'j'
+                repack_total = total[i-1] - value[ choice[j-1] ] + value[j];
+                                                          ^
+/Users/yuka/GoogleDrive/School/Subjects/Computer_Science/Practical_Programming_I/2nd/pr12/pr12-1.c:28:60: error: use of undeclared identifier 'j'
+                repack_total = total[i-1] - value[ choice[j-1] ] + value[j];
+                                                                         ^
+/Users/yuka/GoogleDrive/School/Subjects/Computer_Science/Practical_Programming_I/2nd/pr12/pr12-1.c:29:8: error: use of undeclared identifier 'repack_total'
+                if ( repack_total > total[i-1] ) {
+                     ^
+/Users/yuka/GoogleDrive/School/Subjects/Computer_Science/Practical_Programming_I/2nd/pr12/pr12-1.c:30:15: error: use of undeclared identifier 'repack_total'
+                        total[i] = repack_total;
+                                   ^
+/Users/yuka/GoogleDrive/School/Subjects/Computer_Science/Practical_Programming_I/2nd/pr12/pr12-1.c:31:11: error: use of undeclared identifier 'j'
+                        choice[j] = i;
+                               ^
+12 errors generated.

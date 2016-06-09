@@ -1,0 +1,11 @@
+/Users/yuka/GoogleDrive/School/Subjects/専門科目/実践プログラミング/Second/pr8/pr8.c:28: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'CELL'
+/Users/yuka/GoogleDrive/School/Subjects/専門科目/実践プログラミング/Second/pr8/pr8.c: In function 'disp':
+/Users/yuka/GoogleDrive/School/Subjects/専門科目/実践プログラミング/Second/pr8/pr8.c:38: error: 'adjacent' undeclared (first use in this function)
+/Users/yuka/GoogleDrive/School/Subjects/専門科目/実践プログラミング/Second/pr8/pr8.c:38: error: (Each undeclared identifier is reported only once
+/Users/yuka/GoogleDrive/School/Subjects/専門科目/実践プログラミング/Second/pr8/pr8.c:38: error: for each function it appears in.)
+/Users/yuka/GoogleDrive/School/Subjects/専門科目/実践プログラミング/Second/pr8/pr8.c: In function 'add':
+/Users/yuka/GoogleDrive/School/Subjects/専門科目/実践プログラミング/Second/pr8/pr8.c:58: error: 'adjacent' undeclared (first use in this function)
+/Users/yuka/GoogleDrive/School/Subjects/専門科目/実践プログラミング/Second/pr8/pr8.c: In function 'init_graph':
+/Users/yuka/GoogleDrive/School/Subjects/専門科目/実践プログラミング/Second/pr8/pr8.c:78: error: 'adjacent' undeclared (first use in this function)
+/Users/yuka/GoogleDrive/School/Subjects/専門科目/実践プログラミング/Second/pr8/pr8.c: In function 'search':
+/Users/yuka/GoogleDrive/School/Subjects/専門科目/実践プログラミング/Second/pr8/pr8.c:106: error: 'adjacent' undeclared (first use in this function)
